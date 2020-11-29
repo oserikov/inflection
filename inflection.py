@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 import myutil
 import numpy as np
 from operator import itemgetter
-import os, sys
+import os, sys; reload(sys); sys.setdefaultencoding("utf-8")
 from random import random,shuffle
 
 
